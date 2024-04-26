@@ -13,17 +13,17 @@
 * PhD fellow, [Computational Biology, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 
 ## Projects
-* Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.
+### Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.
    - Analysis of next-generation sequencing (NGS) data in Oesophageal cancer.
    - Multiplexed imaging mass cytometry (IMC) Single-cell analysis.
    - Generated reports and collaborated in writing publications.
 
-* Transcriptomics and Epigenetics in Neuroblastoma:
+### Transcriptomics and Epigenetics in Neuroblastoma:
     - Developed workflows to analyse epigenomics and transcriptomics data in Neuroblastoma: MeRIP-seq, ChIP-seq, bulk and single-cell RNA-seq and Nanopore long-read sequencing.
     - Coding using R, Shell, and other programming languages. Implemented workflows in cloud computing and HPC environments: AWS, SLURM.
     - Good coding practices and version control using GitHub.
 
-* Bioinformatician at Codigo46: 
+### Bioinformatics at [Codigo46](http://linkedin.com/company/codigo46/): 
     * Developed workflows to process and analyse large-scale genetic data for disease risk prediction (polygenic risk score), pharmacogenomics, and population genetics.
 ![Analysis of genotypic data at Codigo46](/images/codigo46_workflow.png)
 
