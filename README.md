@@ -20,21 +20,27 @@
    - Generated reports and collaborated in writing publications.
 ```
 ### Transcriptomics and Epigenetics in Neuroblastoma:
+```
     - Developed workflows to analyse epigenomics and transcriptomics data in Neuroblastoma: MeRIP-seq, ChIP-seq, bulk and single-cell RNA-seq and Nanopore long-read sequencing.
     - Coding using R, Shell, and other programming languages. 
     - Implemented workflows in cloud computing and HPC environments: AWS, SLURM.
     - Good coding practices and version control using GitHub.
+```
 
 ### Bioinformatics at [Codigo46](http://linkedin.com/company/codigo46/): 
+```
     * Developed workflows to process and analyse large-scale genetic data for disease risk prediction (polygenic risk score), pharmacogenomics, and population genetics.
+```
 ![Analysis of genotypic data at Codigo46](/images/codigo46_workflow.png)
 
-### Dynamical modeling of gene regulatory networks controlling Lymphocyte differentiation
+### Dynamical modelling of gene regulatory networks controlling Lymphocyte differentiation
+```
     - Developed bioinformatic analysis workflows for genetic testing and Biobanking platforms: 
         Illumina GSA genotyping array, genome-wide association studies (GWAS, PRS), and human population genetics.
     - Led the data mining and annotation team.
     - Conducted statistical analysis, visualisation and interpretation to communicate with stakeholders.
     - Experience working with agile development methodologies (SCRUM).
+```
 ![Dynamical modeling of gene regulatory networks controlling Lymphocyte differentiation](/images/network_workflow.png)
 
 ## Publications
