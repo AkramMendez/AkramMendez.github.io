@@ -25,6 +25,11 @@ github_username:  AkramMendez
 
 # Build settings
 markdown: kramdown
+* Education
+* Experience
+* Projects
+* Publications
+{:toc}
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
