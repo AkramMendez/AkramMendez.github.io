@@ -1,34 +1,35 @@
 # Projects website
 ### Computational Biology | Bioinformatics | Data Science
 
-[[toc]]
-
-## Education {#education}
+## Education
 * Ph.D., Biochemistry, [Computational Biology Lab, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 * M.Sc., Boichemistry, [Computational Biology Lab, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 * Bachelor in Genomic Sciences, [Center for Genomic Sciences, UNAM](https://www.ccg.unam.mx/en/about/)
 
-## Experience {#experience}
+## Experience
 * Postdoctoral Research Assistant, [Cancer Systems Biology, Francis Crick Institute](https://www.crick.ac.uk/research/labs/francesca-ciccarelli)
 * Postdoctoral Researcher, [Epigenetics, Institute of Biomedicine, University of Gothenburg](https://www.gu.se/en/research/tanmoy-mondal)
 * Bioinformatician, [Bioinformatics, Codigo46, R&D](http://linkedin.com/company/codigo46/)
 * PhD fellow, [Computational Biology, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 
-## Projects {#projects}
+## Projects
 ### Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.
 ```
    - Analysis of next-generation sequencing (NGS) data in Oesophageal cancer.
    - Multiplexed imaging mass cytometry (IMC) Single-cell analysis.
    - Generated reports and collaborated in writing publications.
 ```
-### Transcriptomics and Epigenetics in Neuroblastoma:
+### Transcriptomics and Epigenetics in Neuroblastoma and SARS-Cov-2:
 ```
-    - Developed workflows to analyse epigenomics and transcriptomics data in Neuroblastoma: 
+    - Developed workflows to analyse epigenomics and transcriptomics data in Neuroblastoma:
          MeRIP-seq, ChIP-seq, bulk and single-cell RNA-seq and Nanopore long-read sequencing.
     - Coding using R, Shell, and other programming languages. 
     - Implemented workflows in cloud computing and HPC environments: AWS, SLURM.
     - Good coding practices and version control using GitHub.
 ```
+
+![Analysis of SARS-Cov-2](/images/cov2_workflow.png)
+
 
 ### Bioinformatics at [Codigo46](http://linkedin.com/company/codigo46/): 
 ```
@@ -48,7 +49,7 @@
 ```
 ![Dynamical modeling of gene regulatory networks controlling Lymphocyte differentiation](/images/network_workflow.png)
 
-## Publications {#publications}
+## Publications
 - [(2024). Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.](https://www.biorxiv.org/content/10.1101/2024.01.24.576991v1)
 - [(2024). METTL3 drives telomere targeting of TERRA lncRNA through m6A-dependent R-loop formation: a therapeutic target for ALT-positive neuroblastoma.]( https://doi.org/10.1093/nar/gkad1242)
 -[(2023). Global loss of cellular m6A RNA methylation following infection with different SARS-CoV-2 variants.](https://www.genome.org/cgi/doi/10.1101/gr.276407.12)
