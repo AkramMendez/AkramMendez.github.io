@@ -1,18 +1,20 @@
 # Projects website
 ### Computational Biology | Bioinformatics | Data Science
 
-## Education
+[[toc]]
+
+## Education {#education}
 * Ph.D., Biochemistry, [Computational Biology Lab, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 * M.Sc., Boichemistry, [Computational Biology Lab, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 * Bachelor in Genomic Sciences, [Center for Genomic Sciences, UNAM](https://www.ccg.unam.mx/en/about/)
 
-## Experience
+## Experience {#experience}
 * Postdoctoral Research Assistant, [Cancer Systems Biology, Francis Crick Institute](https://www.crick.ac.uk/research/labs/francesca-ciccarelli)
 * Postdoctoral Researcher, [Epigenetics, Institute of Biomedicine, University of Gothenburg](https://www.gu.se/en/research/tanmoy-mondal)
 * Bioinformatician, [Bioinformatics, Codigo46, R&D](http://linkedin.com/company/codigo46/)
 * PhD fellow, [Computational Biology, Institute for Biomedical Research, UNAM](https://www.linkedin.com/in/dr-luis-mendoza)
 
-## Projects
+## Projects {#projects}
 ### Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.
 ```
    - Analysis of next-generation sequencing (NGS) data in Oesophageal cancer.
@@ -46,7 +48,7 @@
 ```
 ![Dynamical modeling of gene regulatory networks controlling Lymphocyte differentiation](/images/network_workflow.png)
 
-## Publications
+## Publications {#publications}
 - [(2024). Context-dependent effects of CDKN2A and other 9p21 gene losses during the evolution of oesophageal cancer.](https://www.biorxiv.org/content/10.1101/2024.01.24.576991v1)
 - [(2024). METTL3 drives telomere targeting of TERRA lncRNA through m6A-dependent R-loop formation: a therapeutic target for ALT-positive neuroblastoma.]( https://doi.org/10.1093/nar/gkad1242)
 -[(2023). Global loss of cellular m6A RNA methylation following infection with different SARS-CoV-2 variants.](https://www.genome.org/cgi/doi/10.1101/gr.276407.12)
